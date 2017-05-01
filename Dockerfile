@@ -21,3 +21,4 @@ RUN wget -qO- http://ftp.unicamp.br/pub/apache/tomcat/tomcat-9/v9.0.0.M20/bin/ap
 
 # Default command
 CMD bash
+
